@@ -18,6 +18,9 @@ The goal of this analysis is to:
 - Understand seasonal/temporal sales trends
 - Visualize revenue, profit, and customer patterns
 
+![Sales Trend Chart](https://github.com/samiksha29-patil/sales-trends-analysis-using-python/raw/main/1.png)
+
+
 # 📊 E-Commerce Sales Insights
 
 This repository contains a Jupyter Notebook for **E-Commerce Sales Data Analysis**.  
