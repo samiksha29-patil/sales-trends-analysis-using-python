@@ -20,6 +20,13 @@ The goal of this analysis is to:
 
 ![Sales Trend Chart](https://github.com/samiksha29-patil/sales-trends-analysis-using-python/raw/main/1.png)
 
+![Insight 2](https://raw.githubusercontent.com/samiksha29-patil/sales-trends-analysis-using-python/main/2.png)
+
+![Insight 3](https://raw.githubusercontent.com/samiksha29-patil/sales-trends-analysis-using-python/main/3.png)
+
+![Insight 4](https://raw.githubusercontent.com/samiksha29-patil/sales-trends-analysis-using-python/main/4.png)
+
+![Insight 5](https://raw.githubusercontent.com/samiksha29-patil/sales-trends-analysis-using-python/main/5.png)
 
 # 📊 E-Commerce Sales Insights
 
